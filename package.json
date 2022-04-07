@@ -1,0 +1,26 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/texnikman95/gitman.git"
+  },
+  "keywords": [
+    "texnikman"
+  ],
+  "author": "texnikman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/texnikman95/gitman/issues"
+  },
+  "homepage": "https://github.com/texnikman95/gitman#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "telegraf": "^4.7.0"
+  }
+}
